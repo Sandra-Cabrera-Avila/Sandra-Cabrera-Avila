@@ -767,11 +767,11 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Sandra-Cabrera-Avila&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=22D3EE&text_color=E6EDF3&text_bold=true"
+  src="https://github-readme-stats.vercel.app/api?username=Sandra-Cabrera-Avila&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=22D3EE&text_color=E6EDF3&text_bold=true&locale=es"
   alt="Estadísticas de GitHub"
 /><img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Cabrera-Avila&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Cabrera-Avila&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3&locale=es"
   alt="Lenguajes más utilizados"
 />
 
