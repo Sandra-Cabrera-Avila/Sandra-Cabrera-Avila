@@ -779,7 +779,7 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 
 <img
   width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Sandra-Cabrera-Avila&hide_border=true&background=0D1117&ring=C77DFF&fire=F72585&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=C77DFF&sideLabels=E6EDF3&dates=AAAAAA&stroke=C77DFF"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Sandra-Cabrera-Avila&hide_border=true&background=0D1117&ring=C77DFF&fire=F72585&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=C77DFF&sideLabels=E6EDF3&dates=AAAAAA&stroke=C77DFF&locale=es"
   alt="Racha de GitHub"
 />
 
@@ -850,4 +850,3 @@ en contextos cada vez más cercanos al entorno profesional.
 
 </div>
 
-</div>
