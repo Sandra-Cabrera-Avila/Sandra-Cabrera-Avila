@@ -775,7 +775,7 @@ _Lima, Perú · Marzo 2026 – Actualidad_
   alt="Lenguajes más utilizados"
 />
 
-<br><br>
+<br>
 
 <img
   width="70%"
@@ -849,14 +849,5 @@ en contextos cada vez más cercanos al entorno profesional.
 <sub>Gracias por visitar mi perfil ✦</sub>
 
 </div>
-
-<!--
-ACTIVA ESTE CONTADOR CUANDO TENGAS TU USUARIO REAL DE GITHUB:
-
-<img
-  src="https://komarev.com/ghpvc/?username=TU_USUARIO_REAL&label=Visitas%20al%20perfil&color=00B4D8&style=flat-square"
-  alt="Visitas al perfil"
-/>
--->
 
 </div>
