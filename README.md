@@ -113,10 +113,12 @@ Calidad y mejora continua
 
 <br>
 
-<img src="https://img.shields.io/badge/Desarrollo-F72585?style=for-the-badge" alt="Desarrollo"/>
-<img src="https://img.shields.io/badge/Bases%20de%20Datos-9D4EDD?style=for-the-badge" alt="Bases de Datos"/>
-<img src="https://img.shields.io/badge/Redes-00B4D8?style=for-the-badge" alt="Redes"/>
-<img src="https://img.shields.io/badge/QA-2EC4B6?style=for-the-badge" alt="QA"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollo-F72585?style=for-the-badge" alt="Desarrollo"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-C77DFF?style=for-the-badge" alt="Bases de Datos"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redes-22D3EE?style=for-the-badge" alt="Redes"/>&nbsp;
+  <img src="https://img.shields.io/badge/QA-2EC4B6?style=for-the-badge" alt="QA"/>
+</p>
 
 </div>
 
@@ -535,10 +537,12 @@ Aquí se muestran algunos proyectos que representan mejor mi formación y las á
 
 ### Bodega Librería Bazar Estelita
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/MVVM-9D4EDD?style=flat&logoColor=white" alt="MVVM"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>&nbsp;
+  <img src="https://img.shields.io/badge/MVVM-9D4EDD?style=flat" alt="MVVM"/>
+</p>
 
 Aplicación móvil desarrollada para optimizar la gestión de ventas, pedidos e inventario de una bodega-librería.
 
@@ -560,11 +564,13 @@ Aplicación móvil desarrollada para optimizar la gestión de ventas, pedidos e 
 
 ### Farmacia
 
+<p align="left">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/SSIS-F72585?style=flat&logoColor=white" alt="SSIS"/>
 <img src="https://img.shields.io/badge/SSAS-9D4EDD?style=flat&logoColor=white" alt="SSAS"/>
 <img src="https://img.shields.io/badge/SSRS-7B2CBF?style=flat&logoColor=white" alt="SSRS"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
 Proyecto orientado a transformar datos operativos en información útil para la toma de decisiones.
 
@@ -584,11 +590,13 @@ Proyecto orientado a transformar datos operativos en información útil para la 
 
 ## 🦷 Sistema web para clínica odontológica
 
+<p align="left">
 <img src="https://img.shields.io/badge/PHP-474A8A?style=flat&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/MVC-C77DFF?style=flat&logoColor=white" alt="MVC"/>
 <img src="https://img.shields.io/badge/DAO-22D3EE?style=flat&logoColor=black" alt="DAO"/>
+</p>
 
 Sistema web desarrollado para automatizar diferentes procesos administrativos y clínicos.
 
@@ -612,12 +620,14 @@ Sistema web desarrollado para automatizar diferentes procesos administrativos y 
 
 ### Librería Celi's
 
+<p align="left">
 <img src="https://img.shields.io/badge/PHP-474A8A?style=flat&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/MVC-C77DFF?style=flat&logoColor=white" alt="MVC"/>
+</p>
 
 Sistema web desarrollado para organizar y automatizar procesos comerciales de una librería.
 
@@ -643,9 +653,11 @@ Sistema web desarrollado para organizar y automatizar procesos comerciales de un
 
 ### Remodelación de un parque de diversiones
 
+<p align="left">
 <img src="https://img.shields.io/badge/Unity-222C37?style=flat&logo=unity&logoColor=white" alt="Unity"/>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" alt="Blender"/>
 <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=flat&logo=cinema4d&logoColor=white" alt="Cinema 4D"/>
+</p>
 
 Proyecto académico orientado a representar una propuesta de remodelación mediante una simulación tridimensional interactiva.
 
@@ -755,13 +767,13 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 
 <img
   width="48%"
-  height="350"
-  src="https://github-readme-stats.vercel.app/api?username=Sandra-Cabrera-Avila&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=22D3EE&text_color=AAAAAA&text_bold=true"
+  height="300"
+  src="https://github-readme-stats.vercel.app/api?username=Sandra-Cabrera-Avila&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=22D3EE&text_color=E6EDF3&text_bold=true"
   alt="Estadísticas de GitHub"
 /><img
   width="48%"
-  height="350"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Cabrera-Avila&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=AAAAAA"
+  height="300"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Cabrera-Avila&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3"
   alt="Lenguajes más utilizados"
 />
 
@@ -769,7 +781,7 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 
 <img
   width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Sandra-Cabrera-Avila&hide_border=true&background=00000000&ring=C77DFF&fire=F72585&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=C77DFF&sideLabels=888888&dates=888888&stroke=C77DFF"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Sandra-Cabrera-Avila&hide_border=true&background=0D1117&ring=C77DFF&fire=F72585&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=C77DFF&sideLabels=E6EDF3&dates=AAAAAA&stroke=C77DFF"
   alt="Racha de GitHub"
 />
 
@@ -777,7 +789,7 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 
 <img
   src="https://komarev.com/ghpvc/?username=Sandra-Cabrera-Avila&label=VISITAS%20AL%20PERFIL&color=00B4D8&style=for-the-badge"
-  height="30"
+  height="32"
   alt="Visitas al perfil"
 />
 
