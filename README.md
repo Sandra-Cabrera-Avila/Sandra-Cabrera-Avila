@@ -766,15 +766,15 @@ _Lima, Perú · Marzo 2026 – Actualidad_
 <div align="center">
 
 <img
-  width="60%"
+  width="1000%"
   src="https://github-readme-stats.vercel.app/api?username=Sandra-Cabrera-Avila&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=22D3EE&text_color=E6EDF3&text_bold=true&locale=es&custom_title=Estad%C3%ADsticas%20de%20GitHub"
-  alt="Estadísticas de GitHub"
+  alt="Estadísticas de GitHub de Sandra Cabrera Avila"
 />
 
 <br>
 
 <img
-  width="60%"
+  width="1000%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Cabrera-Avila&layout=compact&card_width=500&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3&locale=es"
   alt="Lenguajes más utilizados"
 />
