@@ -25,7 +25,7 @@ Estudiante de **Ingeniería de Sistemas** enfocada en seguir creciendo en
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/sandra-mercedes-cabrera-avila-4b9026385/">
+<a href="https://www.linkedin.com/in/sandra-mercedes-cabrera-avila-4b9026385/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     height="32"
@@ -33,7 +33,7 @@ Estudiante de **Ingeniería de Sistemas** enfocada en seguir creciendo en
   />
 </a>
 &nbsp;
-<a href="mailto:scabreraav21@gmail.com">
+<a href="mailto:scabreraav21@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     height="32"
@@ -41,7 +41,7 @@ Estudiante de **Ingeniería de Sistemas** enfocada en seguir creciendo en
   />
 </a>
 &nbsp;
-<a href="https://wa.me/51941792512?text=Hola%20Sandra%2C%20vengo%20desde%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.">
+<a href="https://wa.me/51941792512?text=Hola%20Sandra%2C%20vengo%20desde%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte." target="_blank">
   <img
     src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
     height="32"
@@ -49,7 +49,7 @@ Estudiante de **Ingeniería de Sistemas** enfocada en seguir creciendo en
   />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@SANDRAMERCEDESCABRERAAVILA">
+<a href="https://www.youtube.com/@SANDRAMERCEDESCABRERAAVILA" target="_blank">
   <img
     src="https://img.shields.io/badge/YouTube-Ver%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     height="32"
@@ -816,7 +816,7 @@ en contextos cada vez más cercanos al entorno profesional.
 
 <br>
 
-<a href="https://www.linkedin.com/in/sandra-mercedes-cabrera-avila-4b9026385/">
+<a href="https://www.linkedin.com/in/sandra-mercedes-cabrera-avila-4b9026385/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     height="32"
@@ -824,7 +824,7 @@ en contextos cada vez más cercanos al entorno profesional.
   />
 </a>
 &nbsp;
-<a href="mailto:scabreraav21@gmail.com">
+<a href="mailto:scabreraav21@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     height="32"
@@ -832,7 +832,7 @@ en contextos cada vez más cercanos al entorno profesional.
   />
 </a>
 &nbsp;
-<a href="https://wa.me/51941792512?text=Hola%20Sandra%2C%20vengo%20desde%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte.">
+<a href="https://wa.me/51941792512?text=Hola%20Sandra%2C%20vengo%20desde%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte." target="_blank">
   <img
     src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
     height="32"
@@ -840,7 +840,7 @@ en contextos cada vez más cercanos al entorno profesional.
   />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@SANDRAMERCEDESCABRERAAVILA">
+<a href="https://www.youtube.com/@SANDRAMERCEDESCABRERAAVILA" target="_blank">
   <img
     src="https://img.shields.io/badge/YouTube-Ver%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
     height="32"
