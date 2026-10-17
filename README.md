@@ -63,7 +63,7 @@ Estudiante de **Ingeniería de Sistemas** enfocada en seguir creciendo en
 
 ## 👩‍💻 Sobre mí
 
-Soy **Sandra Cabrera <span translate="no">Avila</span>**, estudiante de **Ingeniería de Sistemas** en la  
+Soy **Sandra Cabrera Avila**<!-- translate: no -->, estudiante de **Ingeniería de Sistemas** en la
 **Universidad César Vallejo**, actualmente cursando el **10.º ciclo**.
 
 Me interesa desarrollarme en distintas áreas de la tecnología, especialmente en:
